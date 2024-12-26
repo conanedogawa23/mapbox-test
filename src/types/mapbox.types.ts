@@ -1,5 +1,3 @@
-// Mapbox API Response Types
-
 export interface Coordinate {
   longitude: number;
   latitude: number;
